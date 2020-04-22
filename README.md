@@ -1,24 +1,4 @@
-# vue-admin
+# 1.vue-admin
+一个vue3.0的管理后台项目
+# 2.前端行业分工
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
